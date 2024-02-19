@@ -13,7 +13,7 @@ HW3 composer package
 ## Установка
 
 `
-composer require slipka007\hw1-3-composer-package
+composer require slipka007/hw1-3-composer-package
 `
 
 ## Использование
