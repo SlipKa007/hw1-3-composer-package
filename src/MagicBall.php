@@ -1,11 +1,10 @@
 <?php
 
-namespace Slipka007\Hw3ComposerPackage;
+namespace Slipka007\Hw13ComposerPackage;
 
 class MagicBall
 {
     private $answers = array("Да", "Нет");
-
 
     public function getAnswer ()
     {
