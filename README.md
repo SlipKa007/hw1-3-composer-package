@@ -8,7 +8,7 @@ HW3 composer package
 
 ## Трбования
 
-- PHP  8.1
+- PHP  5.6
 
 ## Установка
 
