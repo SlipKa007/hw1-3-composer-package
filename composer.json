@@ -1,0 +1,10 @@
+{
+    "name": "slipka007/hw1-3-composer-package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Slipka007\\Hw13ComposerPackage\\": "src/"
+        }
+    },
+    "require": {}
+}
